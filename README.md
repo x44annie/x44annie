@@ -10,6 +10,7 @@
 ### Code Languages 😎
 ![Not bash](https://img.shields.io/badge/Not%20bash%20-FFFFFF?style=for-the-badge&logo=gnu-bash&logoColor=000000)
 ![Js](https://img.shields.io/badge/JavaScript%20-fde910?style=for-the-badge&logo=javascript&logoColor=000000)
+![Ts](https://img.shields.io/badge/TypeScript%20-485fff?style=for-the-badge&logo=typescript&logoColor=000000)
 ![Nim](https://img.shields.io/badge/Nim%20-E4FF2E?style=for-the-badge&logo=nim&logoColor=000000)
 
 
