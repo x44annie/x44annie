@@ -8,7 +8,7 @@
 
 
 ### Code Languages 😎
-![Shell script](https://img.shields.io/badge/Shell%20script%20-FFFFFF?style=for-the-badge&logo=gnu-bash&logoColor=000000)
+![Not bash](https://img.shields.io/badge/Shell%20script%20-FFFFFF?style=for-the-badge&logo=gnu-bash&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python%20-3670A0?style=for-the-badge&logo=python&logoColor=000000)
 ![Nim](https://img.shields.io/badge/Nim%20-E4FF2E?style=for-the-badge&logo=nim&logoColor=000000)
 
