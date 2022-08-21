@@ -17,7 +17,7 @@
 ### Code Editors 🦾 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-6B58E9?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF7139?style=for-the-badge&logo=sublime-text&logoColor=000000)
-![Neovim](https://img.shields.io/badge/Neovim-7479B5?style=for-the-badge&logo=neovim&logoColor=000000)
+![Neovim](https://img.shields.io/badge/Neovim-808080?style=for-the-badge&logo=neovim&logoColor=)
 ![Atom](https://img.shields.io/badge/Atom%20-4A5249?style=for-the-badge&logo=atom&logoColor=000000)
 ![Vim](https://img.shields.io/badge/Vim%20-1FD832?style=for-the-badge&logo=vim&logoColor=000000)
 
