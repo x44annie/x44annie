@@ -12,7 +12,7 @@
 <img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1" width="500">
 
 ### Code Lang
-![Bash](https://img.shields.io/badge/Bash%20-FDFEA2?style=for-the-badge&logo=gnu-bash&logoColor=000000)
+![Zsh](https://img.shields.io/badge/Bash%20-FDFEA2?style=for-the-badge&logo=gnu-bash&logoColor=000000)
 ![Js](https://img.shields.io/badge/JavaScript%20-FDFEA2?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Ts](https://img.shields.io/badge/TypeScript%20-FDFEA2?style=for-the-badge&logo=typescript&logoColor=000000)
 
