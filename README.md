@@ -1,7 +1,7 @@
 <div align="center">
   
 ### *`linux`*
-### *16 yo frontend developer*
+### *17 yo frontend developer*
 <br/>
 
  *My plans right now are:* <br>
