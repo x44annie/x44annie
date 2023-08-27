@@ -6,7 +6,7 @@
 
  *My plans right now are:* <br>
 *Emigrate to a country I like very much.* <br>
-*Learn js and ts, and learn a couple of frameworks, such as react, vue, angular.*
+*Learn js and ts, and learn a couple of frameworks, such as react, vue, solid.*
 
 </div>
 <img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1" width="500">
