@@ -14,7 +14,6 @@
 ![Ts](https://img.shields.io/badge/TypeScript%20-FDFEA2?style=for-the-badge&logo=typescript&logoColor=000000)
 
 ### Code Editors  
-![Emacs](https://img.shields.io/badge/Emacs%20-A8FFAB?style=for-the-badge&logo=gnuemacs&logoColor=000000)
 ![Neovim](https://img.shields.io/badge/Neovim-A8FFAB?style=for-the-badge&logo=neovim&logoColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-A8FFAB?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
 
