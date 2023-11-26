@@ -1,7 +1,7 @@
 <div align="center">
   
 ### *`linux`*
-### *17 yo front-end developer*
+### *17 yo full-stack developer*
 <br/>
 
 </div>
