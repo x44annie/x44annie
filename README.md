@@ -21,4 +21,3 @@
 ### Operating system
 ![Arch](https://img.shields.io/badge/Arch%20-A8FEFF?style=for-the-badge&logo=arch-linux&logoColor=000000)
 ![MacOS](https://img.shields.io/badge/MacOS%20-A8FEFF?style=for-the-badge&logo=macos&logoColor=000000)
-![Windows](https://img.shields.io/badge/Windows%20-A8FEFF?style=for-the-badge&logo=windows&logoColor=000000)
