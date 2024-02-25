@@ -9,8 +9,8 @@
 ### *Full-stack developer*
 
 
-Languages: English, French, Japanese, Russian<br>
-Futile attempts at abdication through programming and self-unacceptance
+**Languages: English, French, Japanese, Russian**<br>
+**Futile attempts at abdication through programming and self-unacceptance**
 
 <br>
 <br>
