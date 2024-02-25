@@ -1,10 +1,16 @@
 <div align="center">
+
+<h1 align="center">
   
-### *夜明け | linuxxx0*
+*夜明け | linuxxx0*
+
+</h1> 
+
 ### *17 yo full-stack developer*
 <br/>
-
 </div>
+
+
 <img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1" width="500">
 
 ### Languages
