@@ -1,6 +1,6 @@
 <div align="center">
   
-### *`夜明け (linuxxx0)`*
+### *`夜明け / linuxxx0`*
 ### *17 yo full-stack developer*
 <br/>
 
