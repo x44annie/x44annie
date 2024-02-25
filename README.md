@@ -14,7 +14,7 @@
 
 ### Code Editors  
 ![Rider](https://img.shields.io/badge/%20Rider-A8FEFF?style=for-the-badge&logo=rider&logoColor=000000)
-![Visual Studio Code](https://img.shields.io/badge/%20Studio%20Code-A8FEFF?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
+![Visual Studio Code](https://img.shields.io/badge/%20VSCode-A8FEFF?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
 
 ### Operating system
 ![Arch](https://img.shields.io/badge/Arch%20-A8FEFF?style=for-the-badge&logo=arch-linux&logoColor=000000)
