@@ -17,9 +17,10 @@ Futile attempts at abdication through programming and self-unacceptance
 </div>
 
 
-<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1" width="400">
-
 ## About me
+
+
+<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1" width="400">
 
 ### Languages
 ![ZSH](https://img.shields.io/badge/Zsh%20-A8FEFF?style=for-the-badge&logo=gnu-bash&logoColor=000000)
