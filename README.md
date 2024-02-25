@@ -6,8 +6,8 @@
 
 </h1> 
 
-### *17 yo full-stack developer*
-### *Futile attempts at abdication through programming*
+### *Full-stack developer*
+### *Futile attempts at abdication through programming and self-unacceptance*
 
 <br/>
 </div>
