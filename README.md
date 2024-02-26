@@ -28,7 +28,7 @@
 ### Code Editors  
 ![Rider](https://img.shields.io/badge/%20Rider-A8FEFF?style=for-the-badge&logo=rider&logoColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/%20VSCode-A8FEFF?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
-![Webstorm](https://img.shields.io/badge/%20Webstorm-A8FEFF?style=for-the-badge&logo=webstorm&logoColor=000000)
+![Neovim](https://img.shields.io/badge/%20Neovim-A8FEFF?style=for-the-badge&logo=neovim&logoColor=000000)
 
 
 ### Operating system
