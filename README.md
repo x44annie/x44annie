@@ -23,7 +23,7 @@
 ### Languages
 ![BASH](https://img.shields.io/badge/Bash%20-A8FEFF?style=for-the-badge&logo=gnu-bash&logoColor=000000)
 ![C#](https://img.shields.io/badge/CSharp%20-A8FEFF?style=for-the-badge&logo=csharp&logoColor=000000)
-![Js](https://img.shields.io/badge/JavaScript%20-A8FEFF?style=for-the-badge&logo=javascript&logoColor=000000)
+![Ts](https://img.shields.io/badge/TypeScript%20-A8FEFF?style=for-the-badge&logo=typescript&logoColor=000000)
 
 ### Code Editors  
 ![Rider](https://img.shields.io/badge/%20Rider-A8FEFF?style=for-the-badge&logo=rider&logoColor=000000)
