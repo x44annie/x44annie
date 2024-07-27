@@ -16,7 +16,7 @@
 <br>
 </div>
 
-<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1" width="450">
+<img align="right" src="https://cdn.discordapp.com/attachments/1038168806540976130/1266802207781818448/1ee9230e9eb34bc9affd8d8df5c4b037.jpg?ex=66a678fe&is=66a5277e&hm=2515148119590e298aa6c207b7b33f7bfebadeac3aa772cee07cebd36486365f&&f=1&nofb=1" width="450">
 
 ## About me
 
