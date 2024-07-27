@@ -27,7 +27,7 @@
 
 ### Code Editors  
 ![Rider](https://img.shields.io/badge/%20Rider-A8FEFF?style=for-the-badge&logo=rider&logoColor=000000)
-![Zed](https://img.shields.io/badge/%20Zed-A8FEFF?style=for-the-badge&logo=zed&logoColor=000000)
+![Zed](https://img.shields.io/badge/%20Zed-A8FEFF?style=for-the-badge&logo=zed-industries&logoColor=000000)
 ![Neovim](https://img.shields.io/badge/%20Neovim-A8FEFF?style=for-the-badge&logo=neovim&logoColor=000000)
 
 
