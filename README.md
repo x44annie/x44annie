@@ -26,7 +26,7 @@
 ![Ts](https://img.shields.io/badge/TypeScript%20-A8FEFF?style=for-the-badge&logo=typescript&logoColor=000000)
 
 ### Code Editors  
-![Rider](https://img.shields.io/badge/%20Rider-A8FEFF?style=for-the-badge&logo=rider&logoColor=000000)
+![Emacs](https://img.shields.io/badge/%20Emacs-A8FEFF?style=for-the-badge&logo=gnuemacs&logoColor=000000)
 ![Zed](https://img.shields.io/badge/%20Zed-A8FEFF?style=for-the-badge&logo=zed-industries&logoColor=000000)
 ![Neovim](https://img.shields.io/badge/%20Neovim-A8FEFF?style=for-the-badge&logo=neovim&logoColor=000000)
 
