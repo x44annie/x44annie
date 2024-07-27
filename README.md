@@ -6,10 +6,10 @@
 
 </h1> 
 
-### *Full-stack developer*
+### *Front-end  developer*
 
 
-**Languages: English, French, Japanese, Russian**<br>
+**Languages: English, French, Russian**<br>
 **Futile attempts at abdication through programming and self-unacceptance**
 
 <br>
@@ -27,7 +27,7 @@
 
 ### Code Editors  
 ![Rider](https://img.shields.io/badge/%20Rider-A8FEFF?style=for-the-badge&logo=rider&logoColor=000000)
-![Visual Studio Code](https://img.shields.io/badge/%20VSCode-A8FEFF?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
+![Zed](https://img.shields.io/badge/%20Zed-A8FEFF?style=for-the-badge&logo=zed&logoColor=000000)
 ![Neovim](https://img.shields.io/badge/%20Neovim-A8FEFF?style=for-the-badge&logo=neovim&logoColor=000000)
 
 
