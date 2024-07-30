@@ -20,17 +20,17 @@
 
 
 ### Languages
-![BASH](https://img.shields.io/badge/Bash%20-A8FEFF?style=for-the-badge&logo=gnu-bash&logoColor=000000)
-![React](https://img.shields.io/badge/React%20-A8FEFF?style=for-the-badge&logo=react&logoColor=000000)
-![Ts](https://img.shields.io/badge/TypeScript%20-A8FEFF?style=for-the-badge&logo=typescript&logoColor=000000)
+![BASH](https://img.shields.io/badge/Bash%20-FFFFFF?style=for-the-badge&logo=gnu-bash&logoColor=000000)
+![React](https://img.shields.io/badge/React%20-FFFFFF?style=for-the-badge&logo=react&logoColor=000000)
+![Ts](https://img.shields.io/badge/TypeScript%20-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000)
 
 ### Code Editors  
-![Emacs](https://img.shields.io/badge/%20Emacs-A8FEFF?style=for-the-badge&logo=gnuemacs&logoColor=000000)
-![Zed](https://img.shields.io/badge/%20Zed-A8FEFF?style=for-the-badge&logo=zed-industries&logoColor=000000)
-![Neovim](https://img.shields.io/badge/%20Neovim-A8FEFF?style=for-the-badge&logo=neovim&logoColor=000000)
+![Emacs](https://img.shields.io/badge/%20Emacs-FFFFFF?style=for-the-badge&logo=gnuemacs&logoColor=000000)
+![Zed](https://img.shields.io/badge/%20Zed-FFFFFF?style=for-the-badge&logo=zed-industries&logoColor=000000)
+![Neovim](https://img.shields.io/badge/%20Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=000000)
 
 
 ### Operating system
-![Arch](https://img.shields.io/badge/Arch%20-A8FEFF?style=for-the-badge&logo=arch-linux&logoColor=000000)
-![NixOS](https://img.shields.io/badge/NixOS%20-A8FEFF?style=for-the-badge&logo=nixos&logoColor=000000)
-![MacOS](https://img.shields.io/badge/MacOS%20-A8FEFF?style=for-the-badge&logo=macos&logoColor=000000)
+![Arch](https://img.shields.io/badge/Arch%20-FFFFFF?style=for-the-badge&logo=arch-linux&logoColor=000000)
+![NixOS](https://img.shields.io/badge/NixOS%20-FFFFFF?style=for-the-badge&logo=nixos&logoColor=000000)
+![MacOS](https://img.shields.io/badge/MacOS%20-FFFFFF?style=for-the-badge&logo=macos&logoColor=000000)
