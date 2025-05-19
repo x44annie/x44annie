@@ -26,7 +26,7 @@
 
 ### Code Editors  
 ![Emacs](https://img.shields.io/badge/%20Emacs-FFFFFF?style=for-the-badge&logo=gnuemacs&logoColor=000000)
-![Zed](https://img.shields.io/badge/%20Zed-FFFFFF?style=for-the-badge&logo=zed-industries&logoColor=000000)
+![Intellij IDEA](https://img.shields.io/badge/%20Zed-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=000000)
 ![Neovim](https://img.shields.io/badge/%20Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=000000)
 
 
