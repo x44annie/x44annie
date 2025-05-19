@@ -21,7 +21,7 @@
 
 ### Languages
 ![BASH](https://img.shields.io/badge/Bash%20-FFFFFF?style=for-the-badge&logo=gnu-bash&logoColor=000000)
-![React](https://img.shields.io/badge/React%20-FFFFFF?style=for-the-badge&logo=react&logoColor=000000)
+![Java](https://img.shields.io/badge/Java%20-FFFFFF?style=for-the-badge&logo=java&logoColor=000000)
 ![Ts](https://img.shields.io/badge/TypeScript%20-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000)
 
 ### Code Editors  
