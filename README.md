@@ -2,11 +2,11 @@
 
 <h1 align="center">
   
- *夜明け | linuxxx0*
+ *夜明け | x44annie*
 
 </h1> 
 
-### *Front-end  developer*
+### *Back-end  developer*
 
 
 **Languages: English, French, Russian**<br>
