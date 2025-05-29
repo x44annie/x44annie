@@ -6,7 +6,7 @@
 
 </h1> 
 
-### *Back-end  developer*
+### *<Back-end  developer/>*
 
 
 **Languages: English, Dutch, Russian**<br>
