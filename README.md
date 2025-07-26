@@ -16,7 +16,7 @@
 <br>
 </div>
 
-<img align="right" src="https://media.discordapp.net/attachments/700632033428373597/1398701889713078443/banner_288.jpg?ex=68865225&is=688500a5&hm=0e2c74a4e39c178080ae0320066c253fcad93c7a213b79dddcd946580ba0d7c3&=&format=webp" width="530px" height="500px">
+<img align="right" src="https://i.pinimg.com/1200x/5d/2c/4f/5d2c4f38072e58ec56a007cd2d396d9c.jpg" width="430px" height="400px">
 
 
 ### Languages
