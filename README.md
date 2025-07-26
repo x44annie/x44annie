@@ -16,7 +16,7 @@
 <br>
 </div>
 
-<img align="right" src="https://media.discordapp.net/attachments/700632033428373597/1398701889713078443/banner_288.jpg?ex=68865225&is=688500a5&hm=0e2c74a4e39c178080ae0320066c253fcad93c7a213b79dddcd946580ba0d7c3&=&format=webp" width="620px" height="800px">
+<img align="right" src="https://media.discordapp.net/attachments/700632033428373597/1398701889713078443/banner_288.jpg?ex=68865225&is=688500a5&hm=0e2c74a4e39c178080ae0320066c253fcad93c7a213b79dddcd946580ba0d7c3&=&format=webp" width="580px" height="800px">
 
 
 ### Languages
