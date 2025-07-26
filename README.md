@@ -8,10 +8,8 @@
 
 ### < *Back-end  developer* />
 
-
+**Futile attempts at abdication through programming and self-unacceptance**<br>
 **Languages: English, Dutch**<br>
-**Futile attempts at abdication through programming and self-unacceptance**
-
 <br>
 <br>
 </div>
