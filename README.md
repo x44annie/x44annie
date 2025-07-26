@@ -16,7 +16,7 @@
 <br>
 </div>
 
-<img align="right" src="https://i.pinimg.com/1200x/5d/2c/4f/5d2c4f38072e58ec56a007cd2d396d9c.jpg" width="430px" height="400px">
+<img align="right" src="https://i.pinimg.com/1200x/5d/2c/4f/5d2c4f38072e58ec56a007cd2d396d9c.jpg" width="380px" height="380px">
 
 
 ### Languages
