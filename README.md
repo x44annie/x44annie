@@ -9,7 +9,7 @@
 ### < *Back-end  developer* />
 
 
-**Languages: English, Dutch, Russian**<br>
+**Languages: English, Dutch**<br>
 **Futile attempts at abdication through programming and self-unacceptance**
 
 <br>
