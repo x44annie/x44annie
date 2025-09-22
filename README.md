@@ -17,7 +17,7 @@
 
 ### Languages
 ![Lua](https://img.shields.io/badge/Lua%20-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000)
-![Java](https://img.shields.io/badge/Java%20-FFFFFF?style=for-the-badge&logo=spring&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/Typescript%20-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000)
 
 
