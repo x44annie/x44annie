@@ -5,8 +5,9 @@
 <div align="left">
   
 ### Technologies
+![Redux](https://img.shields.io/badge/Redux%20-B2BEB5?style=for-the-badge&logo=redux&logoColor=000000)
 ![React](https://img.shields.io/badge/React%20-B2BEB5?style=for-the-badge&logo=react&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js%20-B2BEB5?style=for-the-badge&logo=node.js&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js%20-B2BEB5?style=for-the-badge&logo=node.js&logoColor=000000)<br>
 ![Next.js](https://img.shields.io/badge/Next.js%20-B2BEB5?style=for-the-badge&logo=next.js&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/Typescript%20-B2BEB5?style=for-the-badge&logo=typescript&logoColor=000000)
 
