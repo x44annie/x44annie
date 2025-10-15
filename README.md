@@ -10,7 +10,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js%20-B2BEB5?style=for-the-badge&logo=node.js&logoColor=000000)<br>
 ![Next.js](https://img.shields.io/badge/Next.js%20-B2BEB5?style=for-the-badge&logo=next.js&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/Typescript%20-B2BEB5?style=for-the-badge&logo=typescript&logoColor=000000)
-
+![Java](https://img.shields.io/badge/Java%20-B2BEB5?style=for-the-badge&logo=openJDK&logoColor=000000)
 
 ### Code Editors  
 ![Vscode](https://img.shields.io/badge/%20Vscode-B2BEB5?style=for-the-badge&logo=vscodium&logoColor=000000)
