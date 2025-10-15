@@ -1,6 +1,12 @@
 <div align="center">
 
-<img align="right" src="meow.jpg" width="380px" height="380px" style="margin-top:200px"><br>
+<div align="right">
+  
+<br><br><br><br>
+
+<img align="right" src="meow.jpg" width="380px" height="380px">
+
+</div>
 
 <div align="left">
   
