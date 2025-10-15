@@ -2,7 +2,7 @@
 
 <h1 align="center">
   
- *夜明け | x44annie*
+ *夜明け*
 
 </h1> 
 
