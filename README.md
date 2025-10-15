@@ -1,19 +1,6 @@
 <div align="center">
 
-<h1 align="center">
-  
- *夜明け*
-
-</h1> 
-
-**Futile attempts at abdication through programming and self-unacceptance**<br>
-**Languages: English, Dutch**<br>
-<br>
-<br>
-</div>
-
 <img align="right" src="585965054f6ae202fedf285f.png" width="380px" height="380px">
-
 
 ### Technologies
 ![Lua](https://img.shields.io/badge/Lua%20-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000)
