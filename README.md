@@ -24,9 +24,9 @@
 ![Linux](https://img.shields.io/badge/Linux%20-B2BEB5?style=for-the-badge&logo=linux&logoColor=000000)
 
 ### Code Editors  
-![Vscode](https://img.shields.io/badge/%20Vscode-B2BEB5?style=for-the-badge&logo=vscodium&logoColor=000000)
 ![Neovim](https://img.shields.io/badge/%20Neovim-B2BEB5?style=for-the-badge&logo=neovim&logoColor=000000)
 ![WebStorm](https://img.shields.io/badge/%20WebStorm-B2BEB5?style=for-the-badge&logo=webstorm&logoColor=000000)
+![IntellijIDEA](https://img.shields.io/badge/%20intellij_idea-B2BEB5?style=for-the-badge&logo=intellijidea&logoColor=000000)
 
 
 ### Operating systems
