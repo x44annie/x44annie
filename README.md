@@ -10,7 +10,7 @@
 
 <div align="left">
   
-## Main Stack
+### Main Stack
 ![Css](https://img.shields.io/badge/Css%20-B2BEB5?style=for-the-badge&logo=css&logoColor=000000)
 ![Html](https://img.shields.io/badge/Html%20-B2BEB5?style=for-the-badge&logo=html5&logoColor=000000)
 ![Java](https://img.shields.io/badge/Java%20-B2BEB5?style=for-the-badge&logo=gradle&logoColor=000000)
